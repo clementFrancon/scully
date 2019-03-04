@@ -1,0 +1,6 @@
+dependencies:
+- name: mulder
+  repository: https://the-jenkins-x-files.github.io/charts
+  version: 1.0.0
+digest: sha256:2491bb3261dbeb08ee027a55131d4196853d8edf3c6c767da638f4c45f922e4c
+generated: 2019-03-01T17:22:27.2120104+01:00
