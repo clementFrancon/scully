@@ -23,7 +23,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>
-          The Jenkins X Files
+          The Jenkins X Files demo
         </h1>
         <header className="App-header">
           <div className="dana-say">
